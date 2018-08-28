@@ -1,3 +1,6 @@
+# replace all numpy.load(x) with numpy.load(x,encoding = 'latin1')
+
+
 Deep Complex Networks
 =====================
 
